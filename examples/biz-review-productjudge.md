@@ -1,5 +1,7 @@
 # 示例：Product Judge / ProductThink 商业评估
 
+产品网址：[https://productthink.vivi.wiki](https://productthink.vivi.wiki)
+
 ## 输入
 
 ```text
@@ -144,4 +146,3 @@ ChatGPT 也能分析，竞品也能出报告，但“被一个懂产品的朋友
 ---
 
 **这周可以做的事**：做一个公开样例页，标题就叫“用 Product Judge 测评一个 AI 独立开发者项目”，里面展示从产品成型卡到商业评估报告的完整结果；然后加一个 29 RMB 的“生成完整报告”按钮，先验证有没有人愿意付第一笔钱。
-

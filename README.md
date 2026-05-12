@@ -133,6 +133,7 @@ curl -fsSL https://raw.githubusercontent.com/Vivixiao980/vivi-product-skills/mai
 - [从 idea 到产品成型卡](examples/productthink-example.md)
 - [Product Judge 商业评估](examples/biz-review-productjudge.md)
 - [xhs-cover-skill 商业评估](examples/biz-review-xhscover.md)
+- [JD 测谎仪商业评估](examples/biz-review-jd-lie-detector.md)
 
 ## 文件结构
 
@@ -149,10 +150,10 @@ vivi-product-skills/
 └── examples/
     ├── productthink-example.md
     ├── biz-review-productjudge.md
-    └── biz-review-xhscover.md
+    ├── biz-review-xhscover.md
+    └── biz-review-jd-lie-detector.md
 ```
 
 ## License
 
 MIT
-
